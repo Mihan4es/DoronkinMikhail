@@ -13,7 +13,7 @@
 
 - :seedling: Завершил курсы по веб-разработке Скиллфактори!
 
-- :zap: Изучил фронтэнд разработку и бэкэнд разработку на node.js (express)! Стек технологий приведен ниже.
+- :zap: Изучил фронтэнд разработку и бэкэнд разработку на node.js! Стек технологий приведен ниже.
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-doronkinmikhail-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Mihan4es) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mihan4es@gmail.com)
 
